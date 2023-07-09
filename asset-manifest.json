@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mystery-colleague-app/static/css/main.e6c13ad2.css",
-    "main.js": "/mystery-colleague-app/static/js/main.58fad02b.js",
+    "main.js": "/mystery-colleague-app/static/js/main.24f5ad4f.js",
     "static/js/787.c97c48a8.chunk.js": "/mystery-colleague-app/static/js/787.c97c48a8.chunk.js",
     "index.html": "/mystery-colleague-app/index.html",
     "main.e6c13ad2.css.map": "/mystery-colleague-app/static/css/main.e6c13ad2.css.map",
-    "main.58fad02b.js.map": "/mystery-colleague-app/static/js/main.58fad02b.js.map",
+    "main.24f5ad4f.js.map": "/mystery-colleague-app/static/js/main.24f5ad4f.js.map",
     "787.c97c48a8.chunk.js.map": "/mystery-colleague-app/static/js/787.c97c48a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.58fad02b.js"
+    "static/js/main.24f5ad4f.js"
   ]
 }
